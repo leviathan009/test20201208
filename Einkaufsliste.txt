@@ -1,4 +1,8 @@
 Einkaufsliste start
+<<<<<<< HEAD
 
 1l H-Milch
  
+=======
+es geht schon weiter...
+>>>>>>> b91bfc917f8c454c0da578ca0f5a994be0e3237a
